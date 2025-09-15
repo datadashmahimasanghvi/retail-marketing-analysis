@@ -1,6 +1,12 @@
-# Retail Marketing Analysis
+# retail-marketing-analysis
+
+Retail analytics using Python: Data cleaning, KPI reporting, visualizations (RFM, revenue, retention)
+
+## 📊 Retail Marketing Analysis
 
 This project uses Python to analyze real-world online retail data. It covers everything from cleaning and preprocessing to KPI calculation and insightful marketing visualizations.
+
+---
 
 ## 🧾 Project Overview
 
@@ -9,6 +15,8 @@ This project uses Python to analyze real-world online retail data. It covers eve
 - Computes KPIs and exports clean data as CSV
 - Performs EDA & visualization using Python (pandas, matplotlib)
 - Saves all final outputs and tables as CSV
+
+---
 
 ## 🔍 Key Features & Visualizations
 
@@ -29,12 +37,12 @@ This project uses Python to analyze real-world online retail data. It covers eve
 
 ---
 
-## 📊 Sample Insights
+## 📈 Sample Insights
 
-| KPI                    | Value        |
-|------------------------|--------------|
-| Unique Customers       | 4,338        |
-| Unique Invoices        | 19,960       |
+| KPI                    | Value         |
+|------------------------|---------------|
+| Unique Customers       | 4,338         |
+| Unique Invoices        | 19,960        |
 | Total Revenue (GBP)    | ~10.6 Million |
 | Time Period Covered    | Dec 2010 – Dec 2011 |
 
@@ -48,35 +56,36 @@ This project uses Python to analyze real-world online retail data. It covers eve
 
 ## 📁 Files in Repository
 
-| File | Description |
-|------|-------------|
-| `Online_Retail_Analytics.ipynb` | Main Python notebook |
-| `online_retail_clean.csv` | Cleaned transactional data |
-| `online_retail_kpis.csv` | Summary of key KPIs |
-| `online_retail_monthly_revenue.csv` | Monthly revenue trend |
-| `online_retail_top_products.csv` | Top 10 products |
-| `online_retail_top_countries.csv` | Top 15 countries |
-| `online_retail_rfm.csv` | RFM segmentation |
-| `online_retail_cohort_retention.csv` | Cohort retention table |
+| File                             | Description                          |
+|----------------------------------|--------------------------------------|
+| `Online Retail.xlsx`             | Raw transactional dataset            |
+| `Online_Retail_Analytics.ipynb` | Main Python notebook                 |
+| `online_retail_clean.csv`       | Cleaned transactional data           |
+| `online_retail_kpis.csv`        | Summary of key KPIs                  |
+| `online_retail_monthly_revenue.csv` | Monthly revenue trend          |
+| `online_retail_top_products.csv`    | Top 10 products by revenue       |
+| `online_retail_top_countries.csv`   | Top 15 countries by revenue      |
+| `online_retail_rfm.csv`             | RFM segmentation table            |
+| `online_retail_cohort_retention.csv` | Cohort retention analysis table |
 
 ---
 
 ## 🛠️ Tools Used
 
-- Python
-  - pandas
-  - numpy
-  - matplotlib
-- Jupyter Notebook
-- GitHub for version control
+- **Python**  
+  `pandas`, `numpy`, `matplotlib`
+
+- **Environment**  
+  Jupyter Notebook  
+  GitHub for version control
 
 ---
 
 ## ✅ How to Reproduce
 
-1. Clone this repo
-2. Place the `Online Retail.xlsx` file in your project folder
-3. Run the notebook `Online_Retail_Analytics.ipynb`
-4. Make sure you have:
+1. Clone this repo:
    ```bash
-   pip install pandas numpy matplotlib
+   git clone https://github.com/mahimashitalsanghvi-art/retail-marketing-analysis.git
+   cd retail-marketing-analysis
+
+   
