@@ -1,14 +1,10 @@
-# retail-marketing-analysis
-
-Retail analytics using Python: Data cleaning, KPI reporting, visualizations (RFM, revenue, retention)
-
-## 📊 Retail Marketing Analysis
+## Retail Marketing Analysis
 
 This project uses Python to analyze real-world online retail data. It covers everything from cleaning and preprocessing to KPI calculation and insightful marketing visualizations.
 
 ---
 
-## 🧾 Project Overview
+## Project Overview
 
 - Loads transactional data from `Online Retail.xlsx`
 - Cleans data (removes cancellations, negative quantities/prices, missing IDs)
@@ -18,7 +14,7 @@ This project uses Python to analyze real-world online retail data. It covers eve
 
 ---
 
-## 🔍 Key Features & Visualizations
+## Key Features & Visualizations
 
 - **Monthly Revenue Trend**  
   Understand seasonal spikes and dips across time.
@@ -37,7 +33,7 @@ This project uses Python to analyze real-world online retail data. It covers eve
 
 ---
 
-## 📈 Sample Insights
+## Sample Insights
 
 | KPI                    | Value         |
 |------------------------|---------------|
@@ -54,7 +50,7 @@ This project uses Python to analyze real-world online retail data. It covers eve
 
 ---
 
-## 📁 Files in Repository
+## Files in Repository
 
 | File                             | Description                          |
 |----------------------------------|--------------------------------------|
@@ -70,7 +66,7 @@ This project uses Python to analyze real-world online retail data. It covers eve
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Python**  
   `pandas`, `numpy`, `matplotlib`
@@ -81,7 +77,7 @@ This project uses Python to analyze real-world online retail data. It covers eve
 
 ---
 
-## ✅ How to Reproduce
+## How to Reproduce
 
 1. Clone this repo:
    ```bash
