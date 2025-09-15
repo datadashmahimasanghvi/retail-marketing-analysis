@@ -74,14 +74,3 @@ This project uses Python to analyze real-world online retail data. It covers eve
 - **Environment**  
   Jupyter Notebook  
   GitHub for version control
-
----
-
-## How to Reproduce
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/mahimashitalsanghvi-art/retail-marketing-analysis.git
-   cd retail-marketing-analysis
-
-   
